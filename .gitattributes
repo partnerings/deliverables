@@ -2,3 +2,4 @@ CSP_TV_Volume1.zip filter=lfs diff=lfs merge=lfs -text
 CSP_TV_Volume2.zip filter=lfs diff=lfs merge=lfs -text
 CSP_TV_Volume3.zip filter=lfs diff=lfs merge=lfs -text
 CCV-FamilyDay-Salsa-Dodgeball.zip filter=lfs diff=lfs merge=lfs -text
+CCV-Easter.zip filter=lfs diff=lfs merge=lfs -text
